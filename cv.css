@@ -1,0 +1,111 @@
+body {
+  margin: 0;
+  font-size: 16px;
+  line-height: 1.8em;
+  
+}
+header {
+  padding-left: 80px;
+  text-align: center;
+}
+div img {
+  border-radius: 30%;
+  max-width: 150px;
+}
+header p{
+  padding: 1em;
+  margin: 0 auto;
+  max-width: 640px;
+  font-family: Times New Roman;
+  color:#000;
+  font-size:21px;
+}
+.edu h3{
+	text-transform: uppercase;
+	font-family:Candara;
+	font-size:30px;
+}
+hr.divide{
+	width:70%;
+}
+section h3{
+	text-transform: uppercase;
+	padding-left:250px;
+	font-family:Candara;
+	font-size:30px;
+}
+section h4{
+	font-family:Candara;
+	font-size:20px;
+}
+section h4.lang{
+	font-family:Candara;
+	font-size:20px;
+}
+section div.lan p{
+	font-family:Times New Roman;
+	font-size:18px;
+}
+.skills .column {
+  -ms-flex: 0 0 50%%;
+  flex: 0 0 50%;
+  max-width: 50%;
+  padding-left:250px;
+}
+.skills .column ul, ul.job-description {
+  list-style-type: none;
+}
+.skills .column ul > li:before {
+  content: "►";
+  padding-right: 0.5em;
+  color: #509e98;
+}
+.skills .column1 {
+  -ms-flex: 0 0 50%%;
+  flex: 0 0 50%;
+  max-width: 50%;
+  float:right;
+  padding-right:250px;
+}
+.skills .lan {
+  -ms-flex: 0 0 50%%;
+  flex: 0 0 50%;
+  max-width: 50%;
+  padding-left:250px;
+}
+.skills .column1 ul, ul.job-description {
+  list-style-type: none;
+}
+.skills .column1 ul > li:before {
+  content: "►";
+  padding-right: 0.5em;
+  color: #509e98;
+}
+.edu{
+	padding-left:250px;
+}
+.edu span{
+	text-decoration: underline;
+	color:#FF420E;
+}
+div.achv, .add{
+	padding-left:250px;
+}
+div.cer{
+	text-align:center;
+}
+a.ex{
+	text-decoration: none;
+	display: inline-block;
+	color: #fff;
+	font-size: 24px;
+	border: 2px solid #fff;
+	border-radius: 50px;
+	margin-top: 20px;
+	background-color:#34C4F4;
+}
+div.cer p{
+	text-align:center;
+	font-family:Candara;
+	font-size:20px;
+}
